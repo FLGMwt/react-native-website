@@ -113,6 +113,10 @@ a code {
   display: none;
 }
 
+.anchor {
+  top: -180px;
+}
+
 .hash-link:focus {
   opacity: 1;
   transition: none;
